@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Singh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning HTML, CSS, Javascript and reactJs
 - 📫 How to reach me tcssumitsingh2017@gmail.com
 
 <!---
